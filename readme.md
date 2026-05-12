@@ -22,8 +22,8 @@
 
 | Partie prenante | Client (ClueLau) | Joueurs | Équipe projet |
 | :---- | :---: | :---: | :---: |
-| Attentes et rôles | Jeu d'enquête respectant les conditions données | Expérience claire, fluide, équilibrée contre l'IA | Conçoit, développe, teste, documente et présente le projet. |
-| Niveau d'Implication | Très forte (décide du projet) | Moyenne (audience post finalisation du projet) | Forte (conception et réalisation du projet) |
+| **Attentes et rôles** | Jeu d'enquête respectant les conditions données | Expérience claire, fluide, équilibrée contre l'IA | Conçoit, développe, teste, documente et présente le projet. |
+| **Niveau d'Implication** | Très forte (décide du projet) | Moyenne (audience post finalisation du projet) | Forte (conception et réalisation du projet) |
 
 Le client est donc notre interlocuteur principal car il valide les fonctionnalités et arbitre en cas de doute. Les joueurs sont la cible réelle du produit, mais ne seront accessibles qu'une fois le projet fini. Leurs attentes sont représentées par le client. L'équipe projet (nous) est plus présente mais se doit de suivre les attentes du client.
 
