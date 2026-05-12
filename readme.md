@@ -21,7 +21,6 @@
 ### **1\.2\. Identifier les parties prenantes** 
 
 | Partie prenante | Client (ClueLau) | Joueurs | Équipe projet |
-| :---- | :---: | :---: | :---: |
 | Attentes et rôles | Jeu d'enquête respectant les conditions données | Expérience claire, fluide, équilibrée contre l'IA | Conçoit, développe, teste, documente et présente le projet. |
 | Niveau d'Implication | Très forte (décide du projet) | Moyenne (audience post finalisation du projet) | Forte (conception et réalisation du projet) |
 
