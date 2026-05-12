@@ -1,8 +1,8 @@
 # Projet ClueLau \- Jeu d'enquête en terminal
 
-## Analyse des besoins
+## 1. Analyse des besoins
 
-### **1\. Identifier les contraintes du projet**
+### **1\.1\. Identifier les contraintes du projet**
 
 * Le projet doit être codé en langage C
 
@@ -18,7 +18,7 @@
 
 * Présentation PowerPoint
 
-### **2\. Identifier les parties prenantes** 
+### **1\.2\. Identifier les parties prenantes** 
 
 | Partie prenante | Client (ClueLau) | Joueurs | Équipe projet |
 | :---- | :---: | :---: | :---: |
@@ -27,7 +27,7 @@
 
 Le client est donc notre interlocuteur principal car il valide les fonctionnalités et arbitre en cas de doute. Les joueurs sont la cible réelle du produit, mais ne seront accessibles qu'une fois le projet fini. Leurs attentes sont représentées par le client. L'équipe projet (nous) est plus présente mais se doit de suivre les attentes du client.
 
-### **3\. Catégorisation des besoins**
+### **1\.3\. Catégorisation des besoins**
 
 | Besoins fonctionnels | Besoins non fonctionnels | Besoins opérationnels | Besoins stratégiques |
 | :---- | :---- | :---- | :---- |
