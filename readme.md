@@ -47,3 +47,8 @@ Le client est donc notre interlocuteur principal car il valide les fonctionnalit
 | L'IA avancée doit utiliser ses informations pour adopter une stratégie plus subtile, calculer les probabilités du meilleur choix à faire et si possible parfois trompeuse (suggestions destinées à piéger plutôt qu'à confirmer) |  |  |  |
 | Le système doit afficher, en fin de partie, un récapitulatif (gagnant, combinaison secrète, déroulé). |  |  |  |
 
+# 2. Conceptualisation
+Trouvable [ici](https://docs.google.com/document/d/1u-8MLhsS5z8h6L_s8o8jEBAG5amZk6lf8JZOjoUG4dM/edit?usp=sharing)
+
+# 3. Scrum board Jira
+Trouvable [ici](https://wmacaigne.atlassian.net/jira/software/projects/KAN/list?cloudId=1df52384-c377-4a06-979b-0cba438bc615&jql=project+%3D+KAN+ORDER+BY+cf%5B10019%5D+ASC&atlOrigin=eyJpIjoiMTI4ODRiMDM3MjcwNDIzOTk2NTMwZDU5MDJlOTM4NTMiLCJwIjoiaiJ9)
