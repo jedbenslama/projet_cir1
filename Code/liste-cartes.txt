@@ -1,0 +1,26 @@
+Personnages 
+
+Victor Noir	
+Clara Rouge	
+Hugo Morel	
+Emma Frost	
+Lucas Vane	
+Sarah Blake
+
+Armes
+	
+Revolver	
+Corde	
+Poison	
+Couteau	
+Chandelier	
+Clé anglaise
+
+Pièces
+ 
+Cuisine	
+Bibliothèque	
+Salon	
+Bureau	
+Cave	
+Jardin 
