@@ -1,13 +1,33 @@
 #include <stdio.h>
 #include "cartes.h"
 
-int main()
-{
-    afficherSuspects();
+int main(){
+    char suspects[6][50] = {
+        "Victor Noir",
+        "Clara Rouge",
+        "Hugo Morel",
+        "Emma Frost",
+        "Lucas Vane",
+        "Sarah Blake"
+    };
 
-    afficherArmes();
+    char armes[6][50] = {
+        "Revolver",
+        "Corde",
+        "Poison",
+        "Couteau",
+        "Chandelier",
+        "Cle anglaise"
+    };
 
-    afficherPieces();
+    char pieces[6][50] = {
+        "Cuisine",
+        "Bibliotheque",
+        "Salon",
+        "Bureau",
+        "Cave",
+        "Jardin d'hiver"
+    };
 
     return 0;
 }
