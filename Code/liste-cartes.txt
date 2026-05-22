@@ -1,26 +1,23 @@
-Personnages 
-
-Victor Noir	
-Clara Rouge	
-Hugo Morel	
-Emma Frost	
-Lucas Vane	
+Personnages
+Victor Noir
+Clara Rouge
+Hugo Morel
+Emma Frost
+Lucas Vane
 Sarah Blake
 
 Armes
-	
-Revolver	
-Corde	
-Poison	
-Couteau	
-Chandelier	
-Clé anglaise
+Revolver
+Corde
+Poison
+Couteau
+Chandelier
+Cle anglaise
 
-Pièces
- 
-Cuisine	
-Bibliothèque	
-Salon	
-Bureau	
-Cave	
-Jardin 
+Pieces
+Cuisine
+Bibliotheque
+Salon
+Bureau
+Cave
+Jardin
